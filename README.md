@@ -1,6 +1,6 @@
-### Hi there 👋  
+### Hi there 👋  I am Manushi Kapoor
   
-I have worked on backend techlonogies like Java (Spring Boot) and NodeJS with mongoDB and SQL as databases. Frameworks such as Spring Boot, Hibernate, ExpressJS and Bootstrap excites me. I have keen interest in competitive coding using C++ and python, however I prefer using C++.  
+I am a full stack developer and have worked on techlonogies like Java (Spring Boot), Hibernate, NodeJS (ExpressJS) and html/css (Bootstrap) along with mongoDB and SQL as databases. I have keen interest in competitive coding using C++ and python, however I prefer using C++.  
 
 Visit my portflio for details - [Manushi Kapoor](https://manushikapoor.github.io/)  
 
