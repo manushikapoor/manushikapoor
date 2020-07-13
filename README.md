@@ -1,4 +1,4 @@
-### Hi there 👋  I am Manushi Kapoor    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hi there,  I am Manushi Kapoor    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img align='right' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47e2efb8d7f7b1bd09baa8df6381d160134e5cc619&rid=200.webp" width="230">
   
