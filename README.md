@@ -1,13 +1,20 @@
-### Hi there 👋  I am Manushi Kapoor
+### Hi there 👋  I am Manushi Kapoor    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+<img align='right' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47e2efb8d7f7b1bd09baa8df6381d160134e5cc619&rid=200.webp" width="230">
   
 I am a full stack developer and have worked on techlonogies like Java (Spring Boot), Hibernate, NodeJS (ExpressJS) and HTML/CSS (Bootstrap) along with mongoDB and SQL as databases. I have keen interest in competitive coding using C++ and python, however I prefer using C++.  
 
 Visit my portflio for details - [Manushi Kapoor](https://manushikapoor.github.io/)  
 
-- 📫 How to reach me:  
-  
-  💬 manushikapoor@gmail.com  
-  💻 [LinkedIn](https://www.linkedin.com/in/manushi-kapoor-b628b5180/)
+
+  <a href="https://www.linkedin.com/in/manushi-kapoor-b628b5180/">
+  <img  align="left"src="https://img.icons8.com/bubbles/50/000000/linkedin.png" width="50">
+</a> 
+<a href="mailto: manushikapoor@gmail.com">
+  <img align="left" src="https://img.icons8.com/bubbles/2x/gmail.png" width="50">
+</a>
+
+
 
 <!--
 **manushikapoor/manushikapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
