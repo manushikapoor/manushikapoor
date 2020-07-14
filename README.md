@@ -4,10 +4,13 @@
   
 I am a full stack developer and have worked on techlonogies like Java (Spring Boot), Hibernate, NodeJS (ExpressJS) and HTML/CSS (Bootstrap) along with mongoDB and SQL as databases. I have keen interest in competitive coding using C++ and python, however I prefer using C++.  
 
-Visit my portflio for details -   
+Visit my portflio for details - 
+  
 <a href="https://manushikapoor.github.io/">
   <img   src="https://img.icons8.com/bubbles/2x/monitor.png" width="50">
 </a>  
+  
+  
   
 Connect to me -  
 
