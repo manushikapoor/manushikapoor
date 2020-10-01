@@ -10,6 +10,13 @@ Visit my portflio for details -
   <img   src="https://img.icons8.com/bubbles/2x/monitor.png" width="50">
 </a>  
   
+   
+   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushikapoor&layout=compact&theme=dark"/>
+
+
+  
+  
   
   
 Connect to me -  
@@ -20,9 +27,10 @@ Connect to me -
 </a> 
 <a href="mailto: manushikapoor@gmail.com">
   <img align="left" src="https://img.icons8.com/bubbles/2x/gmail.png" width="50">
-</a>
+</a>  
 
-
+  
+  
 
 <!--
 **manushikapoor/manushikapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
