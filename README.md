@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47e2efb8d7f7b1bd09baa8df6381d160134e5cc619&rid=200.webp" width="230">
   
-I am a full stack developer and have worked on techlonogies like Java (Spring Boot), Hibernate, NodeJS (ExpressJS) and HTML/CSS (Bootstrap) along with mongoDB and SQL as databases. I have keen interest in competitive coding using C++ and python, however I prefer using C++.  
+I am IT intern at VMware. I have worked on techlonogies like Java (Spring Boot), Hibernate, NodeJS (ExpressJS), Django and HTML/CSS (Bootstrap) along with mongoDB and SQL as databases. I have keen interest in competitive coding using C++ and python, however I prefer using C++.  
   
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manushikapoor&layout=compact&theme=dark"/>  
